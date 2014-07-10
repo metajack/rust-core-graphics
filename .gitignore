@@ -8,4 +8,4 @@
 *.rlib
 *.dSYM
 *.dll
-
+/core_graphics-test
